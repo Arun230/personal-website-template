@@ -22,7 +22,7 @@ h2 {
     font-size: 2rem;
 }
 
-.dots{
+.dots {
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
@@ -32,11 +32,11 @@ h2 {
     margin: auto;
 }
 
-.profile h2{
+.profile h2 {
     padding: 20px;
 }
 
-.skills h2{
+.skills h2 {
     padding: 100px 0 0 0;
 }
 
@@ -57,13 +57,9 @@ a {
     padding-top: 100px;
 }
 
-.middle-container {
+.middle-container {}
 
-}
-
-.bottom-container {
-
-}
+.bottom-container {}
 
 .top-cloud {
     position: absolute;
@@ -81,74 +77,75 @@ a {
     color: #11999E;
 }
 
-.skill-row{
+.skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
     line-height: 2;
-    
+
 }
 
-.profile{
+.profile {
     padding: 75px 0;
     max-width: 675px;
     margin: auto;
 }
 
-.myPic{
+.myPic {
     width: 40%;
     padding: 30px;
 
 }
 
-.mypicDesc{
+.mypicDesc {
     line-height: 2;
     color: #40514E;
 
 }
 
-.stack{
+.stack {
     text-decoration: underline;
 }
 
-.skillContent01, .skillContent02{
+.skillContent01,
+.skillContent02 {
     color: #40514E;
     line-height: 2;
 }
 
-.skill-list01{
+.skill-list01 {
     color: #40514E;
     line-height: 2;
 }
 
-.skill-list{
+.skill-list {
     color: #40514E;
     line-height: 2;
 }
 
-.code-img{
-    width: 25%;
+.code-img {
+    width: 35%;
     float: left;
     margin-right: 30px;
 }
 
-.chilli-img{
-    width: 25%;
+.chilli-img {
+    width: 35%;
     float: right;
     margin-left: 30px;
 }
 
-.skill-list01{
+.skill-list01 {
     clear: left;
     margin: 100px auto;
 }
 
-.skill-list{
+.skill-list {
     clear: right;
     margin: 100px auto;
 }
 
-.bottom-container{
+.bottom-container {
     background-color: #66BFBF;
     padding: 50px 0;
 }
@@ -171,9 +168,9 @@ a {
     font-size: 24px;
     padding: 8px 20px 10px 20px;
     text-decoration: none;
-  }
-  
-  .btn:hover {
+}
+
+.btn:hover {
     background: #3cfcdc;
     background-image: -webkit-linear-gradient(top, #3cfcdc, #3498db);
     background-image: -moz-linear-gradient(top, #3cfcdc, #3498db);
@@ -181,19 +178,27 @@ a {
     background-image: -o-linear-gradient(top, #3cfcdc, #3498db);
     background-image: linear-gradient(to bottom, #3cfcdc, #3498db);
     text-decoration: none;
-  }
+}
 
-  .contact-me{
-      padding: 50px 0;
-  }
-  
-  .footer-link{
-            padding: 0 50px;
-            color:#11999E;
-  }
+.contact-me {
+    padding: 50px 0;
+}
 
-  .copyright{
-      margin-top: 20px;
-      color: #EAF6F6;
+.contact-me h2 {
+    padding: 30px 0;
+}
 
-  }
+.contact-me h3 {
+    padding: 20px 0;
+}
+
+.footer-link {
+    padding: 0 50px;
+    color: #11999E;
+}
+
+.copyright {
+    margin-top: 20px;
+    color: #EAF6F6;
+
+}
