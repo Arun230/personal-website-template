@@ -163,7 +163,7 @@ a {
     -webkit-border-radius: 3;
     -moz-border-radius: 3;
     border-radius: 3px;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 24px;
     padding: 8px 20px 10px 20px;
@@ -201,10 +201,4 @@ a {
     margin-top: 20px;
     color: #EAF6F6;
 
-}
-
-.header {
-    background-color: #40514e;
-    height: 50px;
-    width: 100%;
 }
