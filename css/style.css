@@ -202,3 +202,9 @@ a {
     color: #EAF6F6;
 
 }
+
+.header {
+    background-color: #40514e;
+    height: 50px;
+    width: 100%;
+}
